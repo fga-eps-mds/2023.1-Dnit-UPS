@@ -102,7 +102,6 @@ No terminal em que a aplicação esta rodando, digite simultaneamente as teclas 
 
 ![parar](https://github.com/fga-eps-mds/2023.1-Dnit-EscolaService/assets/54676096/45aedf91-bfb3-4475-afeb-6111a6feabe8)
 
-
 ### Documentação endpoints
 
 Para documentar os endpoints estamos utilizando o Swagger. Caso queira visualizar, basta abrir a rota: 
@@ -124,6 +123,4 @@ O projeto DnitUpsService está sob as regras aplicadas na licença [AGPL-3.0](ht
 <a href="https://github.com/fga-eps-mds/2023.1-Dnit-UpsService/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fga-eps-mds/2023.1-Dnit-UpsService" />
 </a>
-
-
 
